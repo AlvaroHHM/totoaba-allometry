@@ -1,0 +1,12 @@
+Method,Group,m,SE,Q10,Tukey,n_20,n_24,n_26,n_28,n_total
+DPH-based,E1,-0.188,0.014,0.153, a ,3,3,3,3,12
+DPH-based,E2,-0.01,0.017,0.904,  b,3,3,3,3,12
+DPH-based,E3,-0.021,0.023,0.813,  b,3,3,3,3,12
+CDD-based,Flexion,-0.057,0.059,0.566, ab,0,2,2,1,5
+CDD-based,Juvenile,-0.043,0.076,0.649,  b,0,0,3,3,6
+CDD-based,Postflexion,0.008,0.017,1.081, ab,6,4,1,2,13
+CDD-based,Preflexion,-0.188,0.017,0.153, a ,3,3,3,3,12
+Continuous (Tm x CDD),Preflexion,-0.063,NA,0.531,NA,3,3,3,3,12
+Continuous (Tm x CDD),Flexion,-0.25,NA,0.082,NA,0,2,2,2,6
+Continuous (Tm x CDD),Postflexion,-0.374,NA,0.024,NA,6,3,1,1,11
+Continuous (Tm x CDD),Juvenile,-0.623,NA,0.002,NA,0,0,3,3,6
