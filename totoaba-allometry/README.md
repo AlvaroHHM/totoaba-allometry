@@ -139,6 +139,19 @@ Not included:
 
 ---
 
+## Note on figures
+
+The figures in `output/figures/` are the unedited, reproducible outputs 
+of the R scripts. The published versions were subsequently polished in 
+vector graphics software (e.g., Inkscape, Adobe Illustrator) for layout 
+and typography. The underlying data and code are identical.
+
+To regenerate the unedited versions:
+
+    Rscript scripts/00_run_all.R
+
+---
+
 ## Citation
 
 If you use this code or data, please cite:
